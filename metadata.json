@@ -1,0 +1,5 @@
+{
+  "name": "QR Code Generator",
+  "description": "An app that generates QR codes from user-provided URLs.",
+  "requestFramePermissions": []
+}
